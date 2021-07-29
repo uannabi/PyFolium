@@ -1,3 +1,3 @@
 # PyFolium
 
-for py map
+python own geo library
